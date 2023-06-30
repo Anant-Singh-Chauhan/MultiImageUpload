@@ -1,0 +1,9 @@
+#previewPanel{
+    height: 85%;
+    overflow-y: scroll;
+}
+
+#previewPanel>img:hover{
+    border: 2px solid #3955d1;
+    border-radius: 7px;
+}
